@@ -1,0 +1,11 @@
+ID, Name, Age, Grade
+2, Jane Smith, 22, 78
+1, John Doe, 20, 85
+3, Alice Brown, 19, 92
+
+Grade Statistics:
+------------------
+Average Grade: 85
+Highest Grade: 92
+Lowest Grade : 78
+Students Passed (>= 50): 3
